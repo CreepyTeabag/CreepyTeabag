@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Sophie
 
+https://www.codewars.com/users/CreepyTeabag/badges/large
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+- I’m currently learning JavaScript
+- I'm planning to learn React and PHP
+- C1 level in English
+- I love memes (who doesn't, though?)
 <!--
 **CreepyTeabag/CreepyTeabag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
