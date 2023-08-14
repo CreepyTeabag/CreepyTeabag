@@ -1,4 +1,4 @@
-### Hi, I'm Sophie 👋
+# Hi, I'm Sophie 👋
 
 [![codewars](https://www.codewars.com/users/CreepyTeabag/badges/large)](https://www.codewars.com/users/username)
 
