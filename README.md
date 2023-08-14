@@ -2,7 +2,7 @@
 
 https://www.codewars.com/users/CreepyTeabag/badges/large
 
-![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreepyTeabag&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyTeabag)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently learning JavaScript
 - I'm planning to learn React and PHP
