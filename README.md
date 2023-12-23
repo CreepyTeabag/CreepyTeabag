@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/CreepyTeabag/badges/large)](https://www.codewars.com/users/username)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyTeabag&show_icons=true&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyTeabag&show_icons=true&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 - I’m currently learning JavaScript, React and PHP
 - I'm planning to learn React Native
