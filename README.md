@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreepyTeabag&show_icons=true&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-- I’m currently learning JavaScript, React and PHP
+- I’m currently learning JavaScript, React and Next.js
 - I'm planning to learn React Native
 - C1 level in English
 - I love memes (who doesn't, though?)
